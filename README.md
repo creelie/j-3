@@ -8,3 +8,5 @@ Carroll, Diachenko and Dulani proposed that a finite quantum universe with comme
 - `code/figure.py`: draws the illustrative figure (one realisation of the Carroll–Diachenko–Dulani simulation set-up); not used in any proof
 
 Contact for GitHub matters: egspl@proton.me
+
+DOI: [10.5281/zenodo.24127725](https://doi.org/10.5281/zenodo.24127725) (all versions)
